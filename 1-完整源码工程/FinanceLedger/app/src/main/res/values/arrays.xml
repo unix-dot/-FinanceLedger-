@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="finance_accounts">
+        <item>工商银行储蓄卡 (尾号8812)</item>
+        <item>招商银行理财卡 (尾号6608)</item>
+        <item>建设银行信用卡 (信用账户)</item>
+        <item>微信支付 (零钱通)</item>
+        <item>支付宝 (余额宝)</item>
+        <item>现金钱包 (现钞账户)</item>
+    </string-array>
+</resources>
